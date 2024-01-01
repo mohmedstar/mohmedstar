@@ -1,7 +1,7 @@
 ![MasterHead](https://static.tumblr.com/b423043304049cf38fac93e9fb888286/lchqtea/6y1ob8pix/tumblr_static_7w5zv4c6axwk00ww4ok00o00g_2048_v2.gif)
 <h1 align="center">Hi 👋, I'm Mohamed Abdelmaksoud</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
-<img align="right" alt="Coding" width="1920" src="https://cropphoto.lens-and-photo.shop/dwnd.php?w=1920&h=1080&img=https://static.tumblr.com/b423043304049cf38fac93e9fb888286/lchqtea/6y1ob8pix/tumblr_static_7w5zv4c6axwk00ww4ok00o00g_2048_v2.gif">
+<img align="right" alt="Coding" width="1920" src="https://static.tumblr.com/b423043304049cf38fac93e9fb888286/lchqtea/6y1ob8pix/tumblr_static_7w5zv4c6axwk00ww4ok00o00g_2048_v2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmedstar&label=Profile%20views&color=0e75b6&style=flat" alt="mohmedstar" /> </p>
 
 - 🔭 I’m currently working on **personal-portfolio**
