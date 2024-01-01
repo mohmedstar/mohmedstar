@@ -1,4 +1,4 @@
-![MasterHead](https://i.gifer.com/STRh.gif)
+[![MasterHead](https://i.gifer.com/STRh.gif)]
 <h1 align="center">Hi 👋, I'm Mohamed Abdelmaksoud</h1>
 <h3 align="center">A passionate software developer from Canada</h3>
 <img align="right" alt="Coding" width="1920" src="https://static.tumblr.com/b423043304049cf38fac93e9fb888286/lchqtea/6y1ob8pix/tumblr_static_7w5zv4c6axwk00ww4ok00o00g_2048_v2.gif">
