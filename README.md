@@ -29,5 +29,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmedstar&show_icons=true&locale=en&layout=compact" alt="mohmedstar" /></p>
 
-![HitCounter](https://hit.yhype.me/github/profile?user_id=82403326)
-
