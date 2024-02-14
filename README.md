@@ -29,3 +29,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmedstar&show_icons=true&locale=en&layout=compact" alt="mohmedstar" /></p>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmohmedstar&count_bg=%2312DA69&title_bg=%23555555&icon=sparkpost.svg&icon_color=%23E7E7E7&title=Clicks&edge_flat=false)](https://github.com/mohmedstar/mohmedstar)
+
